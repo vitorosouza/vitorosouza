@@ -16,11 +16,10 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
  
   
- <img align="left" alt="Vitor-devcat" height="150" width="180" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+ <img align="right" alt="Vitor-devcat" height="150" width="180" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
   <img align="right" alt="Vitor-yoda" height="150" width="180" src="https://media.giphy.com/media/QxGRd0jHlSa8NymtHk/giphy.gif?cid=790b7611017d77c4ee3b42c96588c69957c59e77d36a6c1b&rid=giphy.gif&ct=g">
 </div>
-  
-  ##
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UCAOMqhyRmfkT5DgfunzROjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
