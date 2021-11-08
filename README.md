@@ -14,6 +14,7 @@
   <img align="center" alt="Vitor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  
  
   
  <img align="right" alt="Vitor-devcat" height="150" width="180" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
@@ -28,6 +29,7 @@
   <a href = "mailto:vitorosouza@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorosouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
   ![Snake animation](https://github.com/vitorosouza/vitorosouza/blob/output/github-contribution-grid-snake.svg)
  
 </div>
