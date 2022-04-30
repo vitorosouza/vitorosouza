@@ -1,8 +1,8 @@
 ### Sejam bem-vindos(as)! :octocat: Me chamo Vítor Oliveira de Souza! 🦅
 
 
-- 🔭 Atualmente trabalho como Engenheiro de Controle e Automação no Moinho Central, Belém-PA
-- 🌱 Estudando Java
+- 🔭 Atualmente trabalho como Auxiliar Administrativo na empresa Moinho Central, Belém-PA
+- 🌱 Estudando Java, HTML5 e CSS
 
 
 <div>
@@ -12,13 +12,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/> 
   
  
   
  <img align="right" alt="Vitor-devcat" height="150" width="180" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-  <img align="right" alt="Vitor-yoda" height="150" width="180" src="https://media.giphy.com/media/QxGRd0jHlSa8NymtHk/giphy.gif?cid=790b7611017d77c4ee3b42c96588c69957c59e77d36a6c1b&rid=giphy.gif&ct=g">
+ <img align="right" alt="Vitor-yoda" height="150" width="180" src="https://media.giphy.com/media/QxGRd0jHlSa8NymtHk/giphy.gif?cid=790b7611017d77c4ee3b42c96588c69957c59e77d36a6c1b&rid=giphy.gif&ct=g">
 </div>
 
  
