@@ -1,8 +1,7 @@
 ### Sejam bem-vindos(as)! :octocat: Me chamo Vítor Oliveira de Souza! 🦅
 
 
-- 🔭 Atualmente trabalho como Auxiliar Administrativo na empresa Moinho Central, Belém-PA
-- 🌱 Estudando Java, HTML5 e CSS
+- 🌱 Estudando Javascript, HTML5 e CSS3
 
 
 <div>
