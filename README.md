@@ -1,7 +1,7 @@
 ### Sejam bem-vindos(as)! :octocat: Me chamo Vítor Oliveira de Souza! 🦅
 
 
-- 🌱 Estudando Javascript, HTML5 e CSS3
+- 🌱 Estudando Python
 
 
 <div>
